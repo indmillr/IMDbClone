@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 // COMPONENTS
 import Results from "@/components/Results";
 
